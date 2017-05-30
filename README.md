@@ -7,7 +7,7 @@ Used to send Parse Server password reset and email verification emails with gene
 Read more here: https://github.com/ParsePlatform/parse-server.
 
 ## Compatibility
-Tested with Parse Server v2.2.13
+Tested with Parse Server v2.2.13.
 
 ## Install
 ```sh
